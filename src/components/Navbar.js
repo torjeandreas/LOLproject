@@ -10,7 +10,7 @@ function Navbar() {
                 <li><a href="/Ladder">Ladder</a></li>
                 <li><a href="/"></a>
                  <input type="text" placeholder="search..." className="navbar-searchbar"/>
-                </li>p
+                </li>
                 
             </ul> 
         </nav>
