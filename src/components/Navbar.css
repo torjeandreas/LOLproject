@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #1e1e1e;
+    padding: 20px;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-list li{
+    display: inline;
+}
+
+.nav_list a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar-searchbar {
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
