@@ -1,5 +1,5 @@
-//const api_key = process.env.RIOT_API_KEY;
-const api_key = "RGAPI-744cb41b-4ef3-4cb7-91b3-5e0952cf94ce";
+const api_key = process.env.RIOT_API_KEY;
+
 
 
 async function get_player(gameName, tagLine){
